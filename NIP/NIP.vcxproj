@@ -41,7 +41,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <LibraryPath>C:\Users\artur\Desktop\blitz-master;$(LibraryPath)</LibraryPath>
+    <LibraryPath>C:\Users\artur\Desktop\blitz-master;..\common\lib\$(PlatformName);$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LibraryPath>C:\Users\artur\Desktop\blitz-master;$(LibraryPath)</LibraryPath>
