@@ -1,0 +1,11 @@
+hz=44100
+v=310.0
+x_s=500
+y_s=500
+T=500
+b=0.0
+room=room2.png
+JustRunSim=0
+RunSimMode=0
+WriteSimResults=0
+Threads=12
