@@ -1,11 +1,11 @@
-hz=44100
+hz=4410
 v=310.0
-X_size=30.0
-Y_size=30.0
-T=500
+X_size=25.0
+Y_size=25.0
+T=4410
 b=0.9
-room=room.png
+room=room8.png
 JustRunSim=0
-RunSimMode=0
+RunSimMode=7
 WriteSimResults=0
 Threads=12
